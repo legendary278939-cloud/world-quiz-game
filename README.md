@@ -1,2 +1,16 @@
 # world-quiz-game
-A Python Tkinter desktop quiz application featuring a custom graphical user interface. Users can Log in with a nick name or continue as a guest, answer multiple-choice questions and view their score. The  project demonstrates GUI development, event handling and JSON-based question management.
+
+## About
+- This project was designed and developed independently.
+- It was built from scratch to improve GUI programming and project skills.
+## Features
+- User login with nickname
+- Guest mode
+- Multiple-choice quiz
+- 30 questions per category
+- Restart quiz
+- Score tracking
+- User-friendly interface
+  
+## Technologies Used
+- Python
