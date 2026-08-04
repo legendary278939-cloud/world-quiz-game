@@ -1,0 +1,251 @@
+
+{
+  "category": "Technology & Innovation",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is known as the father of the World Wide Web?",
+      "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Alan Turing"],
+      "answer": "Tim Berners-Lee",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Power Unit", "Central Program Utility", "Core Processing Utility"],
+      "answer": "Central Processing Unit",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Which company developed the Android operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "answer": "Google",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "What does AI stand for?",
+      "options": ["Automated Intelligence", "Artificial Intelligence", "Advanced Internet", "Applied Innovation"],
+      "answer": "Artificial Intelligence",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Which programming language is primarily used for iOS app development?",
+      "options": ["Java", "Swift", "Python", "C#"],
+      "answer": "Swift",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Which company created the Windows operating system?",
+      "options": ["Apple", "Microsoft", "IBM", "Intel"],
+      "answer": "Microsoft",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "What does USB stand for?",
+      "options": ["Universal Serial Bus", "Unified System Board", "Universal Storage Block", "United Serial Base"],
+      "answer": "Universal Serial Bus",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Which social media platform was originally limited to 140 characters per post?",
+      "options": ["Facebook", "Instagram", "Twitter", "LinkedIn"],
+      "answer": "Twitter",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Which company manufactures the PlayStation console?",
+      "options": ["Nintendo", "Sony", "Microsoft", "Sega"],
+      "answer": "Sony",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Transfer Text Process",
+        "Hyper Transfer Technology Protocol",
+        "Host Transfer Text Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Who co-founded Apple with Steve Jobs?",
+      "options": ["Steve Wozniak", "Bill Gates", "Elon Musk", "Larry Page"],
+      "answer": "Steve Wozniak",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Which company is known for the Chrome web browser?",
+      "options": ["Mozilla", "Google", "Microsoft", "Opera"],
+      "answer": "Google",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "What does RAM stand for?",
+      "options": [
+        "Random Access Memory",
+        "Rapid Access Module",
+        "Read Access Memory",
+        "Remote Application Memory"
+      ],
+      "answer": "Random Access Memory",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "Which company developed ChatGPT?",
+      "options": ["Google", "OpenAI", "Meta", "Anthropic"],
+      "answer": "OpenAI",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "What is the binary representation of the decimal number 10?",
+      "options": ["1001", "1010", "1100", "1110"],
+      "answer": "1010",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "Which technology is primarily associated with cryptocurrencies like Bitcoin?",
+      "options": ["Blockchain", "Cloud Computing", "Virtual Reality", "Quantum Computing"],
+      "answer": "Blockchain",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "Which company designed the first commercially successful smartphone called the iPhone?",
+      "options": ["Samsung", "Apple", "Nokia", "BlackBerry"],
+      "answer": "Apple",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "What does VPN stand for?",
+      "options": [
+        "Virtual Private Network",
+        "Verified Personal Network",
+        "Virtual Public Node",
+        "Visual Private Net"
+      ],
+      "answer": "Virtual Private Network",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "Which search engine is developed by Microsoft?",
+      "options": ["Yahoo", "DuckDuckGo", "Bing", "Ask"],
+      "answer": "Bing",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "What does SSD stand for?",
+      "options": [
+        "Solid State Drive",
+        "Secure Storage Disk",
+        "System Storage Device",
+        "Solid Storage Disk"
+      ],
+      "answer": "Solid State Drive",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "question": "Which programming language is most commonly used for data analysis and machine learning?",
+      "options": ["Python", "PHP", "Ruby", "Swift"],
+      "answer": "Python",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "question": "Which company created the Java programming language?",
+      "options": ["Oracle (originally Sun Microsystems)", "IBM", "Google", "Microsoft"],
+      "answer": "Oracle (originally Sun Microsystems)",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "question": "What does IoT stand for?",
+      "options": [
+        "Internet of Things",
+        "Integration of Technology",
+        "Internet of Tools",
+        "Interface of Things"
+      ],
+      "answer": "Internet of Things",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "question": "Which company manufactures Ryzen processors?",
+      "options": ["Intel", "AMD", "NVIDIA", "Qualcomm"],
+      "answer": "AMD",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "question": "Which technology allows digital information to be overlaid onto the real world?",
+      "options": [
+        "Virtual Reality",
+        "Augmented Reality",
+        "Cloud Computing",
+        "Edge Computing"
+      ],
+      "answer": "Augmented Reality",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "question": "What does GPU stand for?",
+      "options": [
+        "Graphics Processing Unit",
+        "General Processing Unit",
+        "Graphics Program Utility",
+        "Global Performance Unit"
+      ],
+      "answer": "Graphics Processing Unit",
+      "difficulty": "easy"
+    },
+    {
+      "id": 27,
+      "question": "Which company developed the TensorFlow machine learning framework?",
+      "options": ["Meta", "Google", "Microsoft", "IBM"],
+      "answer": "Google",
+      "difficulty": "medium"
+    },
+    {
+      "id": 28,
+      "question": "Quantum computers primarily use which unit of information?",
+      "options": ["Bit", "Byte", "Qubit", "Nibble"],
+      "answer": "Qubit",
+      "difficulty": "hard"
+    },
+    {
+      "id": 29,
+      "question": "Which wireless technology is commonly used for short-range communication between devices?",
+      "options": ["Bluetooth", "Ethernet", "NFC", "Satellite"],
+      "answer": "Bluetooth",
+      "difficulty": "easy"
+    },
+    {
+      "id": 30,
+      "question": "Which innovation enables self-executing agreements on a blockchain?",
+      "options": ["Smart Contracts", "Cookies", "Firewalls", "Compilers"],
+      "answer": "Smart Contracts",
+      "difficulty": "hard"
+    }
+  ]
+}

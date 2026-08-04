@@ -1,0 +1,217 @@
+
+{
+  "category": "World Quiz",
+  "topics": ["Geography", "Culture"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "answer": "Ottawa",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "answer": "Japan",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "The Great Barrier Reef is located off the coast of which country?",
+      "options": ["New Zealand", "Australia", "Indonesia", "Philippines"],
+      "answer": "Australia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Which river flows through Egypt?",
+      "options": ["Amazon", "Yangtze", "Nile", "Danube"],
+      "answer": "Nile",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Machu Picchu is located in which country?",
+      "options": ["Chile", "Peru", "Bolivia", "Ecuador"],
+      "answer": "Peru",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Which country has the largest population in the world?",
+      "options": ["India", "China", "United States", "Indonesia"],
+      "answer": "India",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
+      "answer": "Vatican City",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Which mountain is the highest above sea level?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "The city of Istanbul is located on which two continents?",
+      "options": ["Europe and Asia", "Asia and Africa", "Europe and Africa", "North America and Europe"],
+      "answer": "Europe and Asia",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Which country celebrates Carnival in Rio de Janeiro?",
+      "options": ["Argentina", "Brazil", "Portugal", "Mexico"],
+      "answer": "Brazil",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "The traditional garment called a kimono originates from which country?",
+      "options": ["China", "Japan", "South Korea", "Vietnam"],
+      "answer": "Japan",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "Which country is famous for the festival Oktoberfest?",
+      "options": ["Austria", "Germany", "Belgium", "Switzerland"],
+      "answer": "Germany",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "The Taj Mahal is located in which country?",
+      "options": ["Pakistan", "India", "Bangladesh", "Nepal"],
+      "answer": "India",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "Which country is famous for the pyramids of Giza?",
+      "options": ["Morocco", "Sudan", "Egypt", "Jordan"],
+      "answer": "Egypt",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Which city is known as the City of Love?",
+      "options": ["Rome", "Paris", "Venice", "Prague"],
+      "answer": "Paris",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "Which country has the most UNESCO World Heritage Sites?",
+      "options": ["China", "Italy", "Spain", "France"],
+      "answer": "Italy",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "What is the capital of South Africa (administrative)?",
+      "options": ["Cape Town", "Pretoria", "Johannesburg", "Durban"],
+      "answer": "Pretoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": ["Arabian Desert", "Gobi Desert", "Kalahari Desert", "Sahara Desert"],
+      "answer": "Sahara Desert",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "The Maori people are indigenous to which country?",
+      "options": ["Australia", "Fiji", "New Zealand", "Papua New Guinea"],
+      "answer": "New Zealand",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "question": "Which country is famous for flamenco dancing?",
+      "options": ["Portugal", "Spain", "Italy", "Greece"],
+      "answer": "Spain",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "question": "Which continent has the most countries?",
+      "options": ["Asia", "Europe", "Africa", "South America"],
+      "answer": "Africa",
+      "difficulty": "medium"
+    },
+    {
+      "id": 23,
+      "question": "What is the capital of Argentina?",
+      "options": ["Santiago", "Lima", "Buenos Aires", "Montevideo"],
+      "answer": "Buenos Aires",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "question": "Which country is home to the ancient city of Petra?",
+      "options": ["Jordan", "Israel", "Saudi Arabia", "Turkey"],
+      "answer": "Jordan",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "question": "Which country is famous for maple syrup production?",
+      "options": ["United States", "Canada", "Sweden", "Finland"],
+      "answer": "Canada",
+      "difficulty": "easy"
+    },
+    {
+      "id": 26,
+      "question": "The Andes Mountains run primarily along which continent?",
+      "options": ["North America", "Europe", "South America", "Asia"],
+      "answer": "South America",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "question": "Which country is known for the traditional dance called tango?",
+      "options": ["Argentina", "Brazil", "Chile", "Uruguay"],
+      "answer": "Argentina",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "question": "Which country is home to the ancient ruins of Angkor Wat?",
+      "options": ["Thailand", "Cambodia", "Laos", "Vietnam"],
+      "answer": "Cambodia",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "question": "Which European river passes through Budapest?",
+      "options": ["Rhine", "Danube", "Seine", "Volga"],
+      "answer": "Danube",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "question": "Which country is famous for the Northern Lights tourism in Lapland?",
+      "options": ["Norway", "Finland", "Sweden", "Iceland"],
+      "answer": "Finland",
+      "difficulty": "medium"
+    }
+  ]
+}
